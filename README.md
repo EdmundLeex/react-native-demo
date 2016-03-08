@@ -25,6 +25,10 @@ Clone this app to your local machine, go to the root directory of the repo, then
 - run `react-native run-ios`.
 - Or you can open up xcode, and navigate to the `./ios` directory under root dir of this repo, and open the `.xcodeproj` file.
 
+## To test its API interactions
+- This uses API to a UK database. So searc London, you will get result.
+- To try the geolocation, from the simulator menu, select `Debug\Location\Custom Location`, and enter lat: 55.02, long: -1.42.
+
 ## A few tutorials to get started
 - https://facebook.github.io/react-native/docs/tutorial.html
 - https://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript (The one I follow for this project)
