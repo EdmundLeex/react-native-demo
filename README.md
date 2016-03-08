@@ -12,6 +12,9 @@ or use Wget: `wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.0
 - node.js
 Install node.js: `nvm install v5.7.0`
 
+- watchman
+`brew install watchman`
+
 - Xcode
 Go to app store and download Xcode, the full version.
 
